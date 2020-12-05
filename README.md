@@ -9,7 +9,7 @@ I'M NOT THE AUTHOR OF THE CODE AND ALL CREDITS GOES TO MichaelVL.
 
 Changelog:
 
-* Migrated to Android Studio 3.4.2
+* Migrated to Android Studio 4.4.1
 
 * http -> https for OSM API Queries
 
